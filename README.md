@@ -1,6 +1,6 @@
 # pyrouge-AND-rouge-Configure
 
-Teach you how to evaluate text summary ROUGE on Windows system!
+Teach you how to evaluate text summarization ROUGE on Windows system!
 Rouge is the most important evaluation method in the field of NLP text summarization. Rouge is inspired by machine translation evaluation method BLEU. The difference is that recall rate is used as an index. This paper introduces how to configure Rouge in windows system.
   
   Step1:
